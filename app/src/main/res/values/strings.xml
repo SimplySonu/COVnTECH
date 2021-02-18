@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">COVnTECH</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="DummyString">Andaman</string>
+    <string name="confirmedTxt">Confirmed</string>
+    <string name="recoveredTxt">Recovered</string>
+</resources>

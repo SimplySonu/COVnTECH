@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="listHeight">110dp</dimen>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="dp_16">16dp</dimen>
+    <dimen name="mainSizeColor">45sp</dimen>
+    <dimen name="dp_8">8dp</dimen>
+    <dimen name="dp_36">36dp</dimen>
+</resources>
